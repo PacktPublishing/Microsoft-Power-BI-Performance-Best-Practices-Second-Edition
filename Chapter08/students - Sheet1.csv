@@ -1,0 +1,58 @@
+id,first_name,last_name,date_of_birth,ethnicity,gender,status,entry_academic_period,exclusion_type,act_composite,act_math,act_english,act_reading,sat_combined,sat_math,sat_verbal,sat_reading,hs_gpa,hs_city,hs_state,hs_zip,email,entry_age,ged,english_2nd_language,first_generation
+111111,John,Doe,01/2000,Hispanic,M,FT,Fall 2008,,,,,,,,,,2.71,Albuquerque,New Mexico,87112,jdoe@example.com,17.9,FALSE,FALSE,TRUE
+111112,Jane,Smith,05/2001,Hispanic,F,TRANSFER,Fall 2006,,,,,,,,,,3.73,New York,New York,10009,jsmith@example.com,18.1,FALSE,FALSE,TRUE
+111113,Sarah,Thomas,21/2002,Hispanic,M,FTFT,Fall 2006,,14,6,5,3,,,,,2.64,Pheonix,Arizona,85006,sthomas@example.com,17.6,FALSE,FALSE,FALSE
+111114,Frank,Brown,13/2002,Race/ethnicity unknown,M,FTFT,Fall 2006,,,,,,1450,520,510,210,3.68,Pheonix,Arizona,85015,fbrown@example.com,19,TRUE,FALSE,TRUE
+111115,Mike,Davis,31/2001,White,F,FTFT,Fall 2007,,22,12,5,5,,,,,3.46,Seattle,Washington,98106,mdavis@example.com,18.2,FALSE,TRUE,FALSE
+111116,Jennifer,Wilson,01/2002,Asian,M,TRANSFER,Fall 2006,,,,,,,,,,4.24,Denver,Colorado,80012,jwilson@example.com,18.5,TRUE,FALSE,TRUE
+111117,Jessica,Garcia,01/2000,White,F,FTFT,Fall 2007,,25,10,5,10,,,,,,Austin,Texas,78703,jgarcia@example.com,18.8,FALSE,FALSE,FALSE
+111118,Fred,Clark,17/1999,Hispanic,F,FTGRAD,Fall 2010,,21,4,10,7,,,,,2.54,Denver,Colorado,80033,fclark@example.com,19.2,FALSE,TRUE,TRUE
+111119,Bob,Lopez,04/1998,White,F,FTFT,Fall 2007,,15,5,5,5,720,110,400,220,3.24,Denver,Colorado,80122,blopez@example.com,18.5,FALSE,FALSE,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,, ,,,,,,,,,,,,,,
