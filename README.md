@@ -1,4 +1,4 @@
-# Microsoft Power BI Performance Best Practices
+# Microsoft Power BI Performance Best Practices - Second Edition
 
 <a href="https://www.packtpub.com/en-in/product/microsoft-power-bi-performance-best-practices-9781835082256"><img src="https://content.packt.com/_/image/original/B21260/cover_image_large.jpg" alt="Shipping & Fee Details" height="256px" align="right"></a>
 
