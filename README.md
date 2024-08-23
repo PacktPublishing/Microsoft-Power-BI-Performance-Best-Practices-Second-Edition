@@ -60,9 +60,18 @@ With the following software and hardware list you can run all code files present
 
 * Data Cleaning with Power BI[[Packt]](https://www.packtpub.com/en-in/product/data-cleaning-with-power-bi-9781805126409?type=subscription) [[Amazon]](https://www.amazon.com/dp/1805126407)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Thomas LeBlanc**
-is a seasoned Business Intelligence Architect at Data on the Geaux, where he applies his extensive skillset in dimensional modeling, data visualization, and analytical modeling to deliver robust solutions. With a Bachelor of Science in Management Information Systems from Louisiana State University, Thomas has amassed over 30 years of experience in Information Technology, transitioning from roles as a software developer and database administrator to his current expertise in business intelligence and data warehouse architecture and management.
-
-Throughout his career, Thomas has spearheaded numerous impactful projects, including consulting for various companies on Power BI implementation, serving as lead database administrator for a major home health care company, and overseeing the implementation of Power BI and Analysis Service for a large bank. He has also contributed his insights as an author to the Power BI MVP book.
+is a seasoned Business Intelligence Architect at Data on the Geaux, where he applies his extensive skillset in dimensional modeling, data visualization, and analytical modeling to deliver robust solutions. With a Bachelor of Science in Management Information Systems from Louisiana State University, Thomas has amassed over 30 years of experience in Information Technology, transitioning from roles as a software developer and database administrator to his current expertise in business intelligence and data warehouse architecture and management.Throughout his career, Thomas has spearheaded numerous impactful projects, including consulting for various companies on Power BI implementation, serving as lead database administrator for a major home health care company, and overseeing the implementation of Power BI and Analysis Service for a large bank. He has also contributed his insights as an author to the Power BI MVP book.
 Thomas is recognized as a Microsoft Data Platform MVP and is actively engaged in the tech community through his social media presence, notably as TheSmilinDBA on Twitter and ThePowerBIDude on Bluesky and Mastodon. With a passion for solving real-world business challenges with technology, Thomas continues to drive innovation in the field of business intelligence.
+
+**Bhavik Merchant** 
+has nearly 18 years of deep experience in Business Intelligence. He is currently the 
+Director of Product Analytics at Salesforce. Prior to that, he was at Microsoft , fi rst as a Cloud Solution 
+Architect and then as a Product Manager in the Power BI Engineering team. At Power BI, he led the 
+customer-facing insights program, being responsible for the strategy and technical framework to 
+deliver system-wide usage and performance insights to customers. Before Microsoft , Bhavik spent 
+years managing high-caliber consulting teams delivering enterprise-scale BI projects. He has provided 
+extensive technical and theoretical BI training over the years, including expert Power BI performance 
+training he developed for top Microsoft Partners globally.
+
